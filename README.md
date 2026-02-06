@@ -28,7 +28,7 @@ package main
 
 import (
     "fmt"
-    "github.com/toastsandwich/error"
+    "github.com/toastsandwich/terror"
 )
 
 func businessLogic() error {
